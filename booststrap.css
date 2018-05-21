@@ -1,0 +1,11 @@
+
+body{
+	background-color: olive
+}
+
+.a  {
+	display: flex;
+	justify-content: space-around;
+	
+}
+
